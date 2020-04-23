@@ -1,3 +1,14 @@
+To run the project, make sure you have server running at port localhost:8081
+
+Then inside this project, run the following command
+
+```
+npm install
+npm start
+```
+
+The browser will open directly with the screen to upload image, target file type and convert image button
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
